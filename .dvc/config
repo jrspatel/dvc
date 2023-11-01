@@ -1,0 +1,5 @@
+[core]
+    remote = dvclab
+['remote "dvclab"']
+    url = gs://dvc-lab
+    credentialpath = C:\Users\jrspa\Downloads\dvclab-5a88cef348a4.json
